@@ -1,0 +1,10 @@
+C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\bin\Debug\v-web-engine-desktop-app-net.exe.config
+C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\bin\Debug\v-web-engine-desktop-app-net.exe
+C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\bin\Debug\v-web-engine-desktop-app-net.pdb
+C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.csproj.AssemblyReference.cache
+C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v_web_engine_desktop_app_net.Form1.resources
+C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v_web_engine_desktop_app_net.Properties.Resources.resources
+C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.csproj.GenerateResource.cache
+C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.csproj.CoreCompileInputs.cache
+C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.exe
+C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.pdb

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomi\\Documents\\Codes\\V-web-engine\\v-web-engine-desktop-app-net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE1132-E8AE-4D9B-9DD3-225C3BCB0EC3}|v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net.csproj|c:\\users\\tomi\\documents\\codes\\v-web-engine\\v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE1132-E8AE-4D9B-9DD3-225C3BCB0EC3}|v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net.csproj|solutionrelative:v-web-engine-desktop-app-net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE1132-E8AE-4D9B-9DD3-225C3BCB0EC3}|v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net.csproj|c:\\users\\tomi\\documents\\codes\\v-web-engine\\v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29AE1132-E8AE-4D9B-9DD3-225C3BCB0EC3}|v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net.csproj|solutionrelative:v-web-engine-desktop-app-net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE1132-E8AE-4D9B-9DD3-225C3BCB0EC3}|v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net.csproj|c:\\users\\tomi\\documents\\codes\\v-web-engine\\v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE1132-E8AE-4D9B-9DD3-225C3BCB0EC3}|v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net.csproj|solutionrelative:v-web-engine-desktop-app-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tomi\\Documents\\Codes\\V-web-engine\\v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net\\Form1.cs",
+              "RelativeDocumentMoniker": "v-web-engine-desktop-app-net\\Form1.cs",
+              "ToolTip": "C:\\Users\\tomi\\Documents\\Codes\\V-web-engine\\v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net\\Form1.cs",
+              "RelativeToolTip": "v-web-engine-desktop-app-net\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:02:21.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomi\\Documents\\Codes\\V-web-engine\\v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net\\Program.cs",
+              "RelativeDocumentMoniker": "v-web-engine-desktop-app-net\\Program.cs",
+              "ToolTip": "C:\\Users\\tomi\\Documents\\Codes\\V-web-engine\\v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net\\Program.cs",
+              "RelativeToolTip": "v-web-engine-desktop-app-net\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:50:29.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tomi\\Documents\\Codes\\V-web-engine\\v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net\\Form1.cs",
+              "RelativeDocumentMoniker": "v-web-engine-desktop-app-net\\Form1.cs",
+              "ToolTip": "C:\\Users\\tomi\\Documents\\Codes\\V-web-engine\\v-web-engine-desktop-app-net\\v-web-engine-desktop-app-net\\Form1.cs [Design]",
+              "RelativeToolTip": "v-web-engine-desktop-app-net\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:50:16.774Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
