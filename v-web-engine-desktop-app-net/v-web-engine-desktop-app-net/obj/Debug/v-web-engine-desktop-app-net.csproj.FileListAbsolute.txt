@@ -8,3 +8,13 @@ C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-en
 C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.csproj.CoreCompileInputs.cache
 C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.exe
 C:\Users\tomi\Documents\Codes\V-web-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.pdb
+D:\Codes\2024\v-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\bin\Debug\v-web-engine-desktop-app-net.exe.config
+D:\Codes\2024\v-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\bin\Debug\v-web-engine-desktop-app-net.exe
+D:\Codes\2024\v-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\bin\Debug\v-web-engine-desktop-app-net.pdb
+D:\Codes\2024\v-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.csproj.AssemblyReference.cache
+D:\Codes\2024\v-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v_web_engine_desktop_app_net.Form1.resources
+D:\Codes\2024\v-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v_web_engine_desktop_app_net.Properties.Resources.resources
+D:\Codes\2024\v-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.csproj.GenerateResource.cache
+D:\Codes\2024\v-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.csproj.CoreCompileInputs.cache
+D:\Codes\2024\v-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.exe
+D:\Codes\2024\v-engine\v-web-engine-desktop-app-net\v-web-engine-desktop-app-net\obj\Debug\v-web-engine-desktop-app-net.pdb
